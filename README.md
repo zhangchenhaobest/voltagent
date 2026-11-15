@@ -1,3 +1,29 @@
+# voltagent
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于开源 TypeScript AI Agent 框架构建的 AI Agent 工程平台。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <a href="https://voltagent.dev/">
 <img width="1500" height="276" alt="voltagent" src="https://github.com/user-attachments/assets/d9ad69bd-b905-42a3-81af-99a0581348c0" />
